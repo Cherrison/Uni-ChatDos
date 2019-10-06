@@ -1,7 +1,8 @@
 {
     "pluginsConfig": {
     "fontsettings": {
-    "theme": "sepia"
+    "theme": "sepia",
+    "size":  2
     }
     },
     "title":"Uni-Chat"
