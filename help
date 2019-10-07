@@ -1,2 +1,3 @@
 git config --global user.email "yyx990803@gmail.com"
 git config --global user.email "torvalds@linux-foundation.org"
+git config --global user.email "gaofeng@ouc.edu.cn"
