@@ -17,7 +17,7 @@
 ![CLi展示图](https://s2.ax1x.com/2019/10/06/ucQWCD.png)
 
 
-##### update twice 10-7
+##### update third 10-7
 
 
 ## This is a book powered by [Cherrison](https://github.com/Cherrison)
