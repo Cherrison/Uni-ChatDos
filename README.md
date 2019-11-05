@@ -1,5 +1,7 @@
 # Uni-Chat 一个跨平台的即时通讯软件
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e13b5cd0-5db2-432a-8cd3-8a6469a25002/deploy-status)](https://app.netlify.com/sites/unichatdocs/deploys)
+
 ## 支持以下平台
 #### PC端: Windows, Linux, Mac
 #### 移动端: Android, Ios, H5
